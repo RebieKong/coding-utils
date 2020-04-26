@@ -71,7 +71,7 @@
                             <execution>
                                 <phase>package</phase>
                                 <goals>
-                                    <goal>jar-no-fork</goal>
+                                    <goal>jar</goal>
                                 </goals>
                             </execution>
                         </executions>
