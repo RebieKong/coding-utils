@@ -6,7 +6,7 @@
 
     <groupId>com.rebiekong.coding</groupId>
     <artifactId>utils</artifactId>
-    <version>1.1</version>
+    <version>1.0</version>
     <name>Rebie Coding Utils</name>
     <licenses>
         <license>
@@ -104,6 +104,7 @@
                             <!-- 这个id不要乱设置，需要和后面的settings.xml中的server的id保持一致 -->
                             <serverId>oss</serverId>
                             <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                            <autoReleaseAfterClose>true</autoReleaseAfterClose>
                         </configuration>
                         <executions>
                             <execution>
