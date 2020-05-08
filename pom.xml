@@ -6,7 +6,7 @@
 
     <groupId>com.rebiekong.coding</groupId>
     <artifactId>utils</artifactId>
-    <version>1.0</version>
+    <version>1.2-SNAPSHOT</version>
     <name>Rebie Coding Utils</name>
     <licenses>
         <license>
